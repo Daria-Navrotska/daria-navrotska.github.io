@@ -1,11 +1,10 @@
 title: Daria Navrotska  # your name (or website title) here
-logo: "/images/Photo-Daria Navrotska – small.jpg" # your photo (or logo) here
+logo: "/images/Photo-Daria Navrotska – small.jpg" # your photo (or logo)
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Analyst 
   Passionate about transforming complex data into valuable insights.
-  <a href="https://www.linkedin.com/in/daria-navrotska/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/daria-navrotska/">LinkedIn Profile</a> 
 
-  
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
