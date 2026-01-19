@@ -5,7 +5,7 @@
 ### Preparing for influenza season in the U.S.A.
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
-  <img src="images/Influenza.png" alt="Influenza Planning" style="width:80px; margin-top:5px;">
+  <img src="images/Influenza.png" alt="Influenza Planning" style="width:180px; margin-top:5px;">
 
   <div>
     <a href="/influenza"><strong>A Data-Driven Approach to Influenza Planning  Season in the USA</strong></a>
