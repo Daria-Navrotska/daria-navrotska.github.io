@@ -5,13 +5,12 @@
 ### Preparing for influenza season in the U.S.A.
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
-  <img src="images/Influenza.png">
+  <img src="images/Influenza.png" alt="Influenza Planning" style="width:180px; margin-top:5px;">
 
   <div>
-    <a href="/influenza"><strong>Preparing for influenza season in the U.S.A.<img width="184" height="158" alt="image" src="https://github.com/user-attachments/assets/82b21dda-b857-4b2b-aae1-f56930e7986c" />
-</strong></a>
+    <a href="/influenza"><strong>A Data-Driven Approach to Influenza Planning  Season in the USA</strong></a>
     <p>
-This project analyzes CDC mortality data from 2009–2017 to identify when and where demand is likely to peak. By evaluating both total deaths and per-capita mortality rates, I pinpointed high-priority states and recommended a phased regional deployment strategy aligned with seasonal flu patterns. The findings were visualized in a Tableau storyboard. 
+      This project analyzes CDC mortality data from 2009–2017 to identify when and where demand is likely to peak. By evaluating both total deaths and per-capita mortality rates, I pinpointed high-priority states and recommended a phased regional deployment strategy aligned with seasonal flu patterns. The findings were visualized in a Tableau storyboard. 
     </p>
   </div>
 </div>
