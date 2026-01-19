@@ -1,33 +1,16 @@
-title: Daria Navrotska 
-logo: "/images/Photo-Daria Navrotska – small.jpg"
-logo_width: 90
-description: |
-  <style>
-    .view img {
-      max-width: 90px !important;
-      width: 90px !important;
-    }
-    .view p small,
-    .view small,
-    footer p,
-    footer small,
-    .wrapper small {
-      display: none !important;
-      visibility: hidden !important;
-    }
-  </style>)
-  
-  <h2 style="margin-top: 0; margin-bottom: 10px; font-weight: 600;">Data Analyst</h2>
-
-<p style="font-size:14px; line-height:1.6; margin-bottom:20px;">
+title: Daria Navrotska # your name (or website title) here
+logo: "/images/Photo-Daria Navrotska – small.jpg" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Data Analyst 
+  <br><br>
   Passionate about transforming complex data into valuable insights. Following
   the completion of my PhD and contribution to biotech research, I transitioned into data 
   analytics to implement my strengths in structured problem‑solving. I possess extensive 
   proficiency in Python, SQL, interactive dashboards, machine learning and effective 
   communication with a range of stakeholders. I am particularly interested in opportunities
-  that allow to apply my analytical expertise and support informed decision‑making.</p>
-
-<hr style="border: none; border-top: 1px solid #e1e4e8; margin: 20px 0;">
+  that allow to apply my analytical expertise and support informed decision‑making. 
+  <br><br>
+  <a href="https://www.linkedin.com/in/daria-navrotska/">View My LinkedIn Profile</a> 
 
   
 remote_theme: pages-themes/minimal@v0.2.0
