@@ -89,7 +89,7 @@ The timing of flu in the USA is very important as it has a definite seasonal cha
 - Assign helpers early to high-risk areas.
 - Boost vaccination efforts.
 - Track flu spread and mortality rate regularly.
-
+  
 ---
 
 ## Project Challenges 
