@@ -109,7 +109,7 @@ The timing of flu in the USA is very important as it has a definite seasonal cha
 
 ---
 
-### Future Steps:
+## Future Steps:
 
 - Expand the analysis using the most recent data available.
 - Combine clinical and demographic sources for the epidemiological survey to gather data on symptoms, vaccination status and patient access to healthcare.
