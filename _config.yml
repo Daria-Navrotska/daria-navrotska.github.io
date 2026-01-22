@@ -42,6 +42,15 @@ description: |
            alt="Email">
       <a href="mailto:navrotska.daria@gmail.com"
          style="text-decoration: none;">navrotska.daria@gmail.com</a>
+      </p>
+         <p style="margin: 10px 0;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googledocs.svg"
+           width="16" height="16"
+           style="vertical-align: middle; margin-right: 8px;"
+           alt="CV">
+      <a href="/pdf/CV_Data Analytic_DN.pdf"
+         target="_blank"
+         style="text-decoration: none;">CV</a>
     </p>
   </div>
 
