@@ -105,8 +105,23 @@ The timing of flu in the USA is very important as it has a definite seasonal cha
 - Combined CDC mortality data with U.S. Census demographics to fill missed values.
 - Created spatial and temporal visualizations in Tableau dashboard to clearly communicate findings to stakeholders.
 
+![Flu Season](images/Influenza_picture_4.png)
 
+---
 
+### Future Steps:
+
+- Expand the analysis using the most recent data available.
+- Combine clinical and demographic sources for the epidemiological survey to gather data on symptoms, vaccination status and patient access to healthcare.
+- Use predictive models to forecast future medical personnel needs.
+
+![Together we can beat the Flu](images/Influenza_picture_5.png)
+
+---
+
+## Project Files
+
+For more details, see the [Tableau Project Storyboard](https://public.tableau.com/app/profile/daria.navrotska/viz/PreparingforInfluenzaSeasoninUSAStorytellingwithDataPresentations/InfluenzaStory)
 
 
 
