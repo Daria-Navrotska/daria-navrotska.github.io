@@ -8,9 +8,9 @@
   <img src="images/Influenza.png" alt="Influenza Planning" style="width:180px; margin-top:5px;">
 
   <div>
-    <a href="/influenza"><strong>A Data-Driven Approach to Influenza Planning  Season in the USA</strong></a>
+    <a href="/influenza"><strong>Approach to Influenza Planning Season in the USA</strong></a>
     <p>
-      This project analyzes CDC mortality data from 2009–2017 to identify when and where demand is likely to peak. By evaluating both total deaths and per-capita mortality rates, I pinpointed high-priority states and recommended a phased regional deployment strategy aligned with seasonal flu patterns. The findings were visualized in a Tableau storyboard. 
+Based on data from 2009 to 2017, an average of 46158 people died from influenza each year. The project analyzes US CDC and Census Bureau data from 2009–2017 to identify flu trends and highlighting states with large vulnerable populations to ensure timely support for those at highest risk. The findings were visualized in a Tableau storyboard. 
     </p>
   </div>
 </div>
