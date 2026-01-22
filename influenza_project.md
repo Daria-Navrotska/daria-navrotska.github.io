@@ -11,10 +11,10 @@ Enable a U.S.A. medical staffing agency to anticipate influenza‑related surges
 - Present actionable insights to support strategic resource planning.
 
 ## Data:
-CDC Influenza Deaths dataset
-Population data (US Census)
-Survey of influenza test results (CDC)
-Survey of flu shot rates in children (CDC)
+- CDC Influenza Deaths dataset
+- Population data (US Census)
+- Survey of influenza test results (CDC)
+- Survey of flu shot rates in children (CDC)
 
 ## Scope
 - Analyze historical flu mortality data (2009-2017)
