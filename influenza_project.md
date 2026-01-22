@@ -36,8 +36,8 @@ Enable a U.S.A. medical staffing agency to anticipate influenza‑related surges
 - Presenting insights and recommendations to stakeholders.
 - Reporting.
 
-## Methodological Approach
-# Data Preparation
+# Methodological Approach
+## Data Preparation
 - Defined key data questions and research plan.
 - Formulated a research hypothesis to guide the analysis.
 - Identified available datasets: their relevance, limitations, and integrity.
@@ -45,13 +45,13 @@ Enable a U.S.A. medical staffing agency to anticipate influenza‑related surges
 - Cleaned and standardized the datasets, addressing missing values and quality.
 - Transformed and integrated data from multiple sources into a single dataset.
 
-# Analysis
+## Analysis
 - Calculated descriptive statistics, including variance and standard deviation for key variables.
 - Explored relationships through correlation analysis.
 - Conducted hypothesis testing and interpreted significance
 - Built exploratory visualizations and connected the dataset to Tableau.
 
-# Results 
+## Results 
 - Summarized analytical findings in an interim report.
 - Developed a Tableau storyboard highlighting trends, forecasts, and patterns.
 - Delivered a clear narrative and presentation of insights for stakeholders.
