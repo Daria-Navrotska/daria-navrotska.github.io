@@ -122,14 +122,3 @@ The timing of flu in the USA is very important as it has a definite seasonal cha
 ## Project Files
 
 For more details, see the [Tableau Project Storyboard](https://public.tableau.com/app/profile/daria.navrotska/viz/PreparingforInfluenzaSeasoninUSAStorytellingwithDataPresentations/InfluenzaStory)
-
-
-
-
-
-
-
-
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
