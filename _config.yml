@@ -1,11 +1,11 @@
 title: Daria Navrotska  
 logo: "/images/Photo_DN_small.jpg"
-logo_width: 20
+logo_width: 80
 description: |
   <style>
     .view img {
-      max-width: 120px !important;
-      width: 120px !important;
+      max-width: 80px !important;
+      width: 80px !important;
     }
     .view p small,
     .view small,
