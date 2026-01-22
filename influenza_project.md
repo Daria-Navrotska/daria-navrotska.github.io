@@ -24,10 +24,10 @@ Survey of flu shot rates in children (CDC)
 - Provide actionable recommendations for resource planning
 
 ## Tools:
-Excel
-Tableau
-Hypothesis testing 
-Storytelling
+- Excel
+- Tableau
+- Hypothesis testing
+- Storytelling
 
 ## Skills:
 - Data cleaning, aggregation, and integration.
