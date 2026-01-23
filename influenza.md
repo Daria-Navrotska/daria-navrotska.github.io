@@ -76,13 +76,13 @@ The timing of flu in the USA is very important as it has a definite seasonal cha
 
 ![Influenza Season](images/Influenza_picture_3.png)
 
-### Key Findings:
+## Key Findings:
 
 - The most vulnerable population for the flu in the USA –  people 65-85 years old.
 - States with a high senior population have high influenza-related mortality – California, New York, Texas, Florida, Pennsylvania.
 - Flu season is seasonal and typically begins in late autumn. It usually peaks during the winter months, most commonly between December and February.
 
-### Recommendations:
+## Recommendations:
 
 - Send healthcare staff to elevated death-rate states.
 - Deploy specialists to vulnerable populations.
