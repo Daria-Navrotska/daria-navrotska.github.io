@@ -107,17 +107,22 @@ The majority of customers are Middle-aged (over 33 years old).
 
 ## Key Findings:
 
-- The most vulnerable population for the flu in the USA –  people 65-85 years old.
-- States with a high senior population have high influenza-related mortality – California, New York, Texas, Florida, Pennsylvania.
-- Flu season is seasonal and typically begins in late autumn. It usually peaks during the winter months, most commonly between December and February.
-
-## Recommendations:
-
 - Weekend traffic (Saturday–Sunday) drives the highest order volume, with peak activity between 8 a.m. and 3 p.m.
 - High‑value purchases occur during low‑volume hours (2–4 a.m.), suggesting premium‑oriented behavior overnight.
 - Produce is the most frequently ordered department, with bananas leading all individual products.
 - Customer age and income show no strong correlation, and age alone does not meaningfully influence department‑level purchasing patterns.
 - Ordering behavior is consistent across age groups, indicating lifestyle or household composition may be stronger predictors than age.
+
+
+## Recommendations:
+
+- Focus marketing and product launches on weekends and peak hours (8 a.m.–3 p.m.); reduce spend during low-traffic times.
+- Promote premium products during off-peak hours (2–4 a.m.); use bundles and loyalty offers during high-volume periods.
+- Align pricing with sub-$15 preferences; emphasize value messaging and test premium product appeal.
+- Prioritize top-performing departments and expand organic offerings to meet demand for healthy options.
+- Segment by household status rather than age; tailor promotions for families and regional preferences.
+- Use loyalty programs for frequent buyers; personalize incentives to boost engagement across all customer types.
+- Maintain core product consistency while customizing regional promotions (e.g., beverages in Northeast, dry goods in Midwest).
 
 ---
 
