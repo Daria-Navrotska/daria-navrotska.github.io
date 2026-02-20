@@ -39,6 +39,7 @@ To develop a predictive analytics workflow that identifies key factors influenci
     <img src="images/Heart_attack_2.png" alt="Heart_attack">
 </div>
 
+
 # Methodological Approach
 ## Data Preparation
 - Imported and cleaned synthetic patient datasets and global health indicators.
@@ -128,6 +129,10 @@ Performed **clustering analysis doesn’t reflect a strong or clean separation**
 - Apply clustering insights to support targeted wellness programs, diagnostic prioritization, and personalized treatment planning.
 - Use the model outputs as an educational tool to raise awareness of cardiovascular risk patterns. 
   
+<div style="text-align: center;">
+    <img src="images/Heart_attack.png" alt="Heart_attack_picture">
+</div>
+
 ---
 
 ## Project Challenges 
@@ -143,10 +148,6 @@ Performed **clustering analysis doesn’t reflect a strong or clean separation**
 - Applied multiple machine learning methods to compare performance and reduce model bias.
 - Used clustering to uncover hidden patient profiles despite limited variable richness.
 - Integrated global health indicators to broaden context and strengthen interpretability.
-
-<div style="text-align: center;">
-    <img src="images/Heart_attack.png" alt="Heart_attack_picture">
-</div>
 
 ---
 
