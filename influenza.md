@@ -1,4 +1,4 @@
-# Planning for Influenza Season in the U.S.A.
+# Planning for Influenza Season in the USA
 
 ## Project Goal
 Enable a U.S.A. medical staffing agency to anticipate influenza‑related surges and allocate temporary healthcare workers across all country. The analysis focuses on identifying flu trends and highlighting states with large vulnerable populations to ensure timely support for those at highest risk.
