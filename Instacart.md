@@ -1,5 +1,7 @@
 # Instacart Ordering Patterns and Segmentation Insights
 
+![Instacart](images/Instacart_1.png)
+
 ## Project Goal
 Explore Instacart’s transactional and demographic data to identify behavioral trends that can guide more effective marketing strategies and product positioning.
 
@@ -135,7 +137,7 @@ The majority of customers are Middle-aged (over 33 years old).
 - Shifted focus from age‑only segmentation to multi‑factor profiling incorporating lifestyle indicators and basket composition.
 - Visualized patterns across departments, time periods, and customer groups to support targeted marketing recommendations.
 
-![Instacart Busket](images/Instacart_2.png)
+             ![Instacart Busket](images/Instacart_2.png)
 
 ---
 
@@ -146,8 +148,6 @@ The majority of customers are Middle-aged (over 33 years old).
 - Explore product affinity analysis to identify frequently co‑purchased items and improve cross‑selling strategies.
 - Conduct regional‑level deep dives to tailor marketing campaigns and optimize inventory distribution.
 - Test targeted promotions during off‑peak high‑value hours to validate revenue‑boosting opportunities.
-
-![Instacart](images/Instacart_1.png)
 
 ---
 
