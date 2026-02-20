@@ -35,11 +35,13 @@ To develop a predictive analytics workflow that identifies key factors influenci
 - Gained hands‑on experience with synthetic medical data and global health trend analysis.
 - Learned to translate complex health datasets into actionable insights for public health strategies.
 
-![Heart](images/Heart_attack_2.png)
+<div style="text-align: center;">
+    <img src="images/Heart_attack_2.png" alt="Heart_attack">
+</div>
 
 # Methodological Approach
 ## Data Preparation
-- - Imported and cleaned synthetic patient datasets and global health indicators.
+- Imported and cleaned synthetic patient datasets and global health indicators.
 - Handled missing values, standardized formats, and encoded categorical variables.
 - Performed feature engineering to create clinically meaningful predictors.
 - Normalized and scaled numerical variables for model stability.
@@ -68,11 +70,12 @@ Goal is to identify patterns of heart attack risk across a population. Rather th
 
 ![Cardio-Vasculature Disease](images/CVD_poster.png)
 
+
 ## How Health Metrics Relate to Heart Attack Risk
 
-![In which states is the highest risk?](images/Heart_attack_Correlation_Heatmap.png)
-
 At the beginning the linear relationship between different variables were investigated. There are a very **weak negative relationship** between Heart Rate, Family Hear Problems, Smoking, Obesity, Alcohol Consumption, Stress Level, Sedentary Hours Per Day, Physical Activity Days Per Week, Sleep Hours Per Day and Heart Attack Risk indicating **no meaningful linear relationship between mentioned parameters and heart attack risk based on explored data** (despite the common medical knowledge linking some of them to cardiovascular issues).
+
+![In which states is the highest risk?](images/Heart_attack_Correlation_Heatmap.png)
 
 ## What Cholesterol Levels Reveal About Global Heart Attack Risk?
 
@@ -102,13 +105,15 @@ Exercise Hours Per Week (HPW) shows inconsistent impact on Heart Attack Risk, su
 
 ## Clustering Insights: Hidden Complexity
 
-![Heart_attack_Clustering_age_vs_heart_rate](images/Heart_attack_Clustering_age_vs_heart_rate.png)
-
 Performed **clustering analysis doesn’t reflect a strong or clean separation**. The data points across clusters 0, 1, and 2 were densely packed and show considerable overlap missing clear boundary or distinct grouping that separates one cluster from another. This suggests that **individuals of similar Age have a broad range of Heart Rates, and vice versa**.
 
-![Heart_attack_3Dmap_age_vs_heart_rate_vs_body_mass_index](images/Heart_attack_3Dmap_age_vs_heart_rate_vs_body_mass_index.png)
+![Heart_attack_Clustering_age_vs_heart_rate](images/Heart_attack_Clustering_age_vs_heart_rate.png)
 
 **3D clustering** by Age, Heart Rate, and Body Mass Index (BMI) showed **no clear separation**, though color-coded groups suggest general trends: 0 - younger individuals with higher heart rate and lower BMI, 1 - middle-aged with moderate values, and 2 - older individuals with higher BMI and lower heart rate. The **complex effects of these parameters are difficult to discuss due to the significant overlap**.
+
+![Heart_attack_3Dmap_age_vs_heart_rate_vs_body_mass_index](images/Heart_attack_3Dmap_age_vs_heart_rate_vs_body_mass_index.png)
+  
+---
 
 ## Key Findings:
 
@@ -139,22 +144,24 @@ Performed **clustering analysis doesn’t reflect a strong or clean separation**
 - Used clustering to uncover hidden patient profiles despite limited variable richness.
 - Integrated global health indicators to broaden context and strengthen interpretability.
 
-![Heart_attack_picture](images/Heart_attack.png)
+<div style="text-align: center;">
+    <img src="images/Heart_attack.png" alt="Heart_attack_picture">
+</div>
 
 ---
 
 ## Future Steps:
 
-- - Incorporate real clinical datasets to improve model realism and predictive accuracy.
+- Incorporate real clinical datasets to improve model realism and predictive accuracy.
 - Explore nonlinear models and interaction effects to capture complex medical relationships.
 - Expand clustering with additional lifestyle and biomarker variables for richer patient profiling.
 - Develop a dashboard or decision‑support tool for clinicians and public health teams.
 - Use the project as a foundation for deeper research into cardiovascular prevention strategies.
 
-![Heart_attack_life_simple_rules](images/Heart_attack_Life_simple_7)
+![Heart_attack_life_simple_rules](images/Heart_attack_Life_simple_7.png)
 
 ---
 
 ## Project Files
 
-For more details, see the [Tableau Project Storyboard](https://public.tableau.com/app/profile/daria.navrotska/viz/HeartAttackRiskPredictionProject/IntroCVDandHeartAttackRisk)[Heart Attack Risk Prediction Project on GitHub](https://github.com/Daria-Navrotska/Heart_Attack_Risk_Prediction_Project)
+For more details, see the [Tableau Heart Attack Risk Prediction Storyboard](https://public.tableau.com/app/profile/daria.navrotska/viz/HeartAttackRiskPredictionProject/IntroCVDandHeartAttackRisk) and [Heart Attack Risk Prediction Project on GitHub](https://github.com/Daria-Navrotska/Heart_Attack_Risk_Prediction_Project)
