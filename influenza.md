@@ -3,6 +3,8 @@
 ## Project Goal
 Enable a U.S.A. medical staffing agency to anticipate influenza‑related surges and allocate temporary healthcare workers across all country. The analysis focuses on identifying flu trends and highlighting states with large vulnerable populations to ensure timely support for those at highest risk.
 
+![Flu Season](images/Influenza_picture_4.png)
+
 ## Objectives
 - Identify vulnerable population groups and high‑risk states.
 - Analyze U.S. flu mortality trends from 2009-2017.
@@ -106,8 +108,6 @@ The timing of flu in the USA is very important as it has a definite seasonal cha
 - Ran one-tailed t-test to statistically confirm elderly risk hypothesis (65+ age group).
 - Combined CDC mortality data with U.S. Census demographics to fill missed values.
 - Created spatial and temporal visualizations in Tableau dashboard to clearly communicate findings to stakeholders.
-
-![Flu Season](images/Influenza_picture_4.png)
 
 ---
 
