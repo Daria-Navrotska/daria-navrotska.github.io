@@ -126,6 +126,10 @@ The majority of customers are Middle-aged (over 33 years old).
 - Use loyalty programs for frequent buyers; personalize incentives to boost engagement across all customer types.
 - Maintain core product consistency while customizing regional promotions (e.g., beverages in Northeast, dry goods in Midwest).
 
+<div style="text-align: center;">
+    <img src="images/Instacart_Basket.png" alt="Instacart Basket">
+</div>
+
 ---
 
 ## Project Challenges 
