@@ -47,7 +47,7 @@ Using a rich dataset of patient health and lifestyle attributes, this project ex
 
 ---
 
-### GameCo – Global Video Game Sales
+### GameCo – Global Video Game Sales (will be available soon)
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <img src="images/GameCo.png" alt="GameCo – Global Video Game Sales" style="width:180px; margin-top:5px;">
@@ -62,7 +62,7 @@ Using historical sales data from 1980–2016, this project analyzes global video
 
 ---
 
-### Rockbuster Stealth LLC Data Analysis
+### Rockbuster Stealth LLC Data Analysis (will be available soon)
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <img src="images/Rockbuster_Stealth.png" alt="Rockbuster Stealth LLC Data Analysis" style="width:180px; margin-top:5px;">
@@ -77,7 +77,7 @@ This project explores Rockbuster’s multi‑table SQL database, containing year
 
 ---
 
-### Key Events of the 20-th Century
+### Key Events of the 20-th Century (will be available soon)
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <img src="images/20th_century.jpg" alt="20th century Key Events" style="width:180px; margin-top:5px;">
@@ -92,7 +92,7 @@ This project uses web‑scraped text from the Wikipedia page “Key events of th
 
 ---
 
-### New York CityBike Trips Analysis 
+### New York CityBike Trips Analysis (will be available soon)
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <img src="images/NY_CityBike.jpg" alt="New York CityBike Demand" style="width:180px; margin-top:5px;">
