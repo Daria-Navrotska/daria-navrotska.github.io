@@ -160,4 +160,4 @@ The majority of customers are Middle-aged (over 33 years old).
 
 ## Project Files
 
-For more details, see the [Project on GitHub](https://github.com/Daria-Navrotska/Instacart_Grocery_Basket_Analysis)
+For more details, see the [Instacart Grocery Basket Analysis Project on GitHub](https://github.com/Daria-Navrotska/Instacart_Grocery_Basket_Analysis)
