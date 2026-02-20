@@ -105,6 +105,8 @@ The majority of customers are Middle-aged (over 33 years old).
 - Age alone does not significantly influence department-level shopping patterns.
 - Lifestyle or household composition may better explain product-level engagement.
 
+---
+
 ## Key Findings:
 
 - Weekend traffic (Saturday–Sunday) drives the highest order volume, with peak activity between 8 a.m. and 3 p.m.
