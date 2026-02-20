@@ -75,6 +75,8 @@ To examine geographic trends, I used bubble chart and combo map to reveal a corr
 The timing of flu in the USA is very important as it has a definite seasonal character. Using an area chart, I want to highlight that the **flu season in the USA typically lasts from October/November until April/May** every year. This means that **staffing efforts should increase in late autumn** to meet demand and **be fully established during the peak months of December to February.**
 
 ![Influenza Season](images/Influenza_picture_3.png)
+  
+---
 
 ## Key Findings:
 
@@ -121,4 +123,4 @@ The timing of flu in the USA is very important as it has a definite seasonal cha
 
 ## Project Files
 
-For more details, see the [Tableau Project Storyboard](https://public.tableau.com/app/profile/daria.navrotska/viz/PreparingforInfluenzaSeasoninUSAStorytellingwithDataPresentations/InfluenzaStory)
+For more details, see the [Preparing for Influenza Season in USA Storyboard on Tableau](https://public.tableau.com/app/profile/daria.navrotska/viz/PreparingforInfluenzaSeasoninUSAStorytellingwithDataPresentations/InfluenzaStory)
