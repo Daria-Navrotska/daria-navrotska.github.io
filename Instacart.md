@@ -137,7 +137,9 @@ The majority of customers are Middle-aged (over 33 years old).
 - Shifted focus from age‑only segmentation to multi‑factor profiling incorporating lifestyle indicators and basket composition.
 - Visualized patterns across departments, time periods, and customer groups to support targeted marketing recommendations.
 
-![Instacart Basket](images/Instacart_2.png)
+<div style="text-align: center;">
+    <img src="images/Instacart_2.png" alt="Instacart Basket">
+</div>
 
 ---
 
