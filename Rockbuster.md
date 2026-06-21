@@ -119,7 +119,7 @@ That horizontal bar chart shows total payments by Rockbuster customers across th
 - Align Inventory with Demand - number of titles per genre reflects rental behavior.
 
  <div align="center">
-  <img src="images/Rockbuster_picture_3.png" alt="Movie Rentals" width="300">
+  <img src="images/Rockbuster_picture_3.png" alt="Movie Rentals" width="200">
 </div>
 
 ---
