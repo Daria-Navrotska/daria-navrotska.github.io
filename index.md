@@ -1,7 +1,7 @@
 ## Portfolio
 
 <p style="font-size: 0.85rem; color: #6c757d; font-style: italic; margin-top: -10px; margin-bottom: 15px;">
-  Please click on the section title to view full project details.
+  Please click on the section title to view full project details
 </p>
 ---
 
