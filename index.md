@@ -1,5 +1,8 @@
 ## Portfolio
 
+<p style="font-size: 0.85rem; color: #6c757d; font-style: italic; margin-top: -10px; margin-bottom: 15px;">
+  Please click on the section title to view full project details.
+</p>
 ---
 
 ### Preparing for influenza season in the USA
@@ -11,21 +14,6 @@
     <a href="/influenza"><strong>Planning for Influenza Season in the U.S.A.</strong></a>
     <p>
 Based on data from 2009 to 2017, an average of 46158 people died from influenza each year. The project analyzes US CDC (Centers for Disease Control and Prevention) and Census Bureau data from 2009–2017 to identify flu trends and highlighting states with large vulnerable populations to ensure timely support for those at highest risk. The findings were visualized in a Tableau storyboard. 
-    </p>
-  </div>
-</div>
-
----
-
-### Instacart Grocery Basket Analysis
-
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <img src="images/Instacart_Basket.png" alt="Instacart Grocery" style="width:180px; margin-top:5px;">
-
-  <div>
-    <a href="/Instacart"><strong>Instacart Ordering Patterns and Segmentation Insights</strong></a>
-    <p>
-This project analyzes Instacart’s 2017 grocery ordering data to uncover customer purchasing patterns and support targeted marketing strategies. By cleaning, merging, and exploring multiple datasets, I identified peak ordering times, high‑value customer segments, and product categories with the strongest demand. The insights informed recommendations for personalized promotions and more efficient ad scheduling. 
     </p>
   </div>
 </div>
@@ -47,6 +35,21 @@ Using a rich dataset of patient health and lifestyle attributes, this project ex
 
 ---
 
+### Instacart Grocery Basket Analysis
+
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <img src="images/Instacart_Basket.png" alt="Instacart Grocery" style="width:180px; margin-top:5px;">
+
+  <div>
+    <a href="/Instacart"><strong>Instacart Ordering Patterns and Segmentation Insights</strong></a>
+    <p>
+This project analyzes Instacart’s 2017 grocery ordering data to uncover customer purchasing patterns and support targeted marketing strategies. By cleaning, merging, and exploring multiple datasets, I identified peak ordering times, high‑value customer segments, and product categories with the strongest demand. The insights informed recommendations for personalized promotions and more efficient ad scheduling. 
+    </p>
+  </div>
+</div>
+
+---
+
 ### GameCo – Global Video Game Sales (will be available soon)
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
@@ -62,7 +65,7 @@ Using historical sales data from 1980–2016, this project analyzes global video
 
 ---
 
-### Rockbuster Stealth LLC Data Analysis (will be available soon)
+### Rockbuster Stealth LLC Data Analysis
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <img src="images/Rockbuster_Stealth.png" alt="Rockbuster Stealth LLC Data Analysis" style="width:180px; margin-top:5px;">
@@ -77,7 +80,7 @@ This project explores Rockbuster’s multi‑table SQL database, containing year
 
 ---
 
-### Key Events of the 20-th Century (will be available soon)
+### Key Events of the 20-th Century 
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <img src="images/20th_century.jpg" alt="20th century Key Events" style="width:180px; margin-top:5px;">
@@ -92,7 +95,7 @@ This project uses web‑scraped text from the Wikipedia page “Key events of th
 
 ---
 
-### New York CityBike Trips Analysis (will be available soon)
+### New York CityBike Trips Analysis 
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <img src="images/NY_CityBike.jpg" alt="New York CityBike Demand" style="width:180px; margin-top:5px;">
