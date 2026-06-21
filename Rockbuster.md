@@ -1,4 +1,4 @@
-# Rockbuster Data Insight: SQL for Strategic Growth
+# Rockbuster Steals: Data Insight for Strategic Growth
 ![Video Film Rental](images/Rockbuster_picture_1.png)
 
 ## Project Goal
@@ -20,7 +20,7 @@ And answear such questions:
 - Provide data visualizations and a presentation deck to guide the Rockbuster Stealth Management Board’s executive decision-making process. 
 
 ## Data:
-Rockbuster data set that includes several linked data files (~3MB) can be download here - https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
+Rockbuster data set that includes several linked data files (~3MB) can be download here - (https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 - Rockbuster Film Inventory: Includes movie titles, categories, and rental durations. 
 - Customer Information: Contains geographic and lifetime value data. 
 - Payment Records: Tracks revenue contributions by movie and region. 
