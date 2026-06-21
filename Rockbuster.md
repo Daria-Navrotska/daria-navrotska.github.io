@@ -91,7 +91,9 @@ The horizontal bar chart titled "Revenue Contribution by Genre" displays total r
 
 This vertical bar chart shows how film ratings impact revenue. PG-13 films generate the highest revenue ($13,856), followed by NC-17 and PG, while G-rated films earn the least among the group. It highlights which ratings are most financially successful.
 
-![...](images/Rockbuster_picture_7.png)
+<div align="center">
+  <img src="images/Rockbuster_picture_7.png" alt="Film Ratings Revenue Chart" width="300">
+</div>
 
 ## How the sales figures vary between different geographic regions?
 
