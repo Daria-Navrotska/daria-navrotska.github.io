@@ -45,6 +45,11 @@ Data is stored in a relational format and loaded into a PostgreSQL database for 
 - Geographical mapping and interactive visualization building.
 - Translation of complex database queries into stakeholder presentations.
 
+<div style="text-align: center;">
+    <img src="images/Rockbuster_picture_2.png" alt="Cinema">
+</div>
+
+
 # Methodological Approach
 ## Data Preparation
 - Defined schema relationships, resolved primary/foreign key connections, and systematically handled dirty or inconsistent entries.
@@ -107,6 +112,11 @@ That horizontal bar chart shows total payments by Rockbuster customers across th
 - Leverage PG-13 Content as it generate most revenue.
 - Reevaluate Low-Performing Segments (Thriller, Music, and Travel).
 - Align Inventory with Demand - number of titles per genre reflects rental behavior.
+
+  
+<div style="text-align: center;">
+    <img src="images/Rockbuster_pictures_3.png" alt="Movie rentals">
+</div>
 
 ---
 
