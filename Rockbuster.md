@@ -136,8 +136,6 @@ That horizontal bar chart shows total payments by Rockbuster customers across th
 - Converted heavy, multi-layered subqueries into modular Common Table Expressions (CTEs) to improve query performance, readability, and logic isolation.
 - Visualized structural query outputs into interactive Tableau storyboards and executive presentation decks to clearly communicate trends and strategic recommendations.
 
-![picture name](images/Rockbuster_picture_4.png)
-
 ---
 
 ## Future Steps:
@@ -147,8 +145,6 @@ That horizontal bar chart shows total payments by Rockbuster customers across th
 - Automate Live Dashboards: Connect Tableau directly to the cloud database to replace static reporting with automated, real-time regional revenue tracking.
 - Localize Content Recommendations: Run A/B tests on regional genre preferences to optimize content catalogs for high-value international hubs.
 - Optimize License Spending: Establish a data pipeline to continuously audit and phase out low-performing movie licenses based on changing viewer demand.
-
-![Picture name](images/Rockbuster_picture_5.png)
 
 ---
 
