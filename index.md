@@ -71,7 +71,7 @@ Using historical sales data from 1980–2016, this project analyzes global video
   <img src="images/Rockbuster_Stealth.png" alt="Rockbuster Stealth LLC Data Analysis" style="width:180px; margin-top:5px;">
 
   <div>
-    <a href="/Rockbuster"><strong>Rockbuster Data Insights: SQL for Strategic Growth</strong></a>
+    <a href="/Rockbuster"><strong>Rockbuster Steals: Data Insight for Strategic Growth</strong></a>
     <p>
 This project explores Rockbuster’s multi‑table SQL database, containing years of historical rental and payment data across thousands of customers worldwide. By querying revenue contributions, mapping customer distribution, and comparing regional sales performance, I uncovered where the company’s strongest markets truly lie. These insights informed a data‑driven strategy for Rockbuster’s transition from physical rentals to online streaming. 
     </p>
