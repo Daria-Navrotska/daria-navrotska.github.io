@@ -50,7 +50,7 @@ This project analyzes Instacart’s 2017 grocery ordering data to uncover custom
 
 ---
 
-### GameCo – Global Video Game Sales (will be available soon)
+### GameCo – Global Video Game Sales
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <img src="images/GameCo.png" alt="GameCo – Global Video Game Sales" style="width:180px; margin-top:5px;">
