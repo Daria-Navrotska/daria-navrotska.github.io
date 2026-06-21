@@ -118,7 +118,9 @@ That horizontal bar chart shows total payments by Rockbuster customers across th
 - Reevaluate Low-Performing Segments (Thriller, Music, and Travel).
 - Align Inventory with Demand - number of titles per genre reflects rental behavior.
 
- ![Movie Rentals](images/Rockbuster_picture_3.png)
+ <div align="center">
+  <img src="images/Rockbuster_picture_3.png" alt="Movie Rentals" width="300">
+</div>
 
 ---
 
