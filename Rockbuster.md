@@ -1,5 +1,8 @@
 # Rockbuster Steals: Data Insight for Strategic Growth
-![Video Film Rental](images/Rockbuster_picture_1.png)
+
+<div align="center">
+  <img src="images/Rockbuster_picture_1.png" alt="Video Film Rental" width="500">
+</div>
 
 ## Project Goal
 Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiff competition against modern streaming competitors, Rockbuster Stealth is planning to use its existing movie licenses to launch an online video rental service in order to stay competitive.
