@@ -122,6 +122,7 @@ That horizontal bar chart shows total payments by Rockbuster customers across th
   <img src="images/Rockbuster_picture_3.png" alt="Movie Rentals" width="200">
 </div>
 
+
 ---
 
 ## Project Challenges 
