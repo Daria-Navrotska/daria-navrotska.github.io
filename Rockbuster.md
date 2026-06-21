@@ -143,5 +143,4 @@ That horizontal bar chart shows total payments by Rockbuster customers across th
 
 ## Project Files
 
-For more details, see the [Rockbuster_Stealth_Data_Analysis_Project-
- on GitHub](https://github.com/Daria-Navrotska/Rockbuster_Stealth_Data_Analysis_Project-)
+For more details, see the [Rockbuster_Stealth_Data_Analysis_Project-](https://github.com/Daria-Navrotska/Rockbuster_Stealth_Data_Analysis_Project-) on GitHub.
