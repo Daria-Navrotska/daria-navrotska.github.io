@@ -1,7 +1,7 @@
 # Rockbuster Steals: Data Insight for Strategic Growth
 
 <div align="center">
-  <img src="images/Rockbuster_picture_1.png" alt="Video Film Rental" width="500">
+  <img src="images/Rockbuster_picture_1.png" alt="Video Film Rental" width="200">
 </div>
 
 ## Project Goal
