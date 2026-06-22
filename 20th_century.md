@@ -30,7 +30,9 @@ A publicly available dataset scraped from the [Key events of 20th century](https
 - Natural Language Processing (NLP) and data wrangling: implementing tokenization and entity recognition algorithms to transform raw text into structured relational datasets.
 - Network graph theory and centrality analysis: computing mathematical metrics (degree, closeness, and betweenness) to measure node influence and isolate structural hubs.
 - Dynamic and interactive data visualization: designing community-grouped network charts to visually communicate complex relationships and clusters.
-- Analytical storytelling and stakeholder reporting: translating algorithmic outputs into a clear narrative and presentation for public-facing or institutional research. 
+- Analytical storytelling and stakeholder reporting: translating algorithmic outputs into a clear narrative and presentation for public-facing or institutional research.
+
+![...](images/20century_picture_1.png)
 
 # Methodological Approach
 ## Data Preparation
@@ -50,18 +52,43 @@ A publicly available dataset scraped from the [Key events of 20th century](https
   
 ---
 
-## ...?
+## Accessing Web Data content of Key events of 20th century page with Data Scraping
 
-...
+- Explain the legal and ethical intricacies of data scraping by checking the terms of use.
+- Organize anenvironment to perform a data scrape by implementing Python libraries into
+a virtual environment.
+- Executeadatascrape on a website to collect web data.
 
-![...](images/picture_1.png)
+## Text Mining
 
-## ...
+- Tokenized the words from the text and created a bar chart to plot the 10 most common words
 
-...
+![...](images/20century_picture_2.png)
 
-![picture name](images/picture_2.png)
+- Frequency Distribution Plot
 
+![...](images/20century_picture_3.png)  
+
+- New plot with removed stop-words and punctuations.
+
+ ![...](images/20century_picture_4.png)  
+
+ - List of the Top 10 part of speech (POS) tags for words that appear in the article
+
+ ![...](images/20century_picture_5.png) 
+
+- Bar plots with the top 15 POS labels for nouns
+
+![...](images/20century_picture_6.png) 
+
+- Create a count for the countries name 
+
+ ![...](images/20century_picture_7.png) 
+
+Sentiment analysis revealed that the text has a slightly positive, but essentially neutral tone (polarity = 0.05) and is fairly objective (subjectivity = 0.38). In other words, the writing is mostly factual with only a mild emotional coloring.
+
+![...](images/20century_picture_8.png)  (images/20century_picture_9.png)
+ 
 ## ...
 
 ...
