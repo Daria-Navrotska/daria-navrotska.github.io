@@ -130,4 +130,4 @@ The visualization reveals a notable shift in regional dominance: while GameCo as
 
 ## Project Files
 
-For more details, see the project details on ([GitHub](https://github.com/Daria-Navrotska))
+For more details, see the project details on [GitHub](https://github.com/Daria-Navrotska).
