@@ -92,6 +92,7 @@ The visualization reveals a notable shift in regional dominance: while GameCo as
   <img src="images/Gameco_picture_8.png" alt="Genre Preferences">
 </div>
 
+
 ## Recommendations:
 
 - Conduct a regional genre analysis in Europe to identify high-revenue categories and guide resource allocation.
@@ -106,7 +107,10 @@ The visualization reveals a notable shift in regional dominance: while GameCo as
 - Analyzing historical data tracking over three decades of sales across varying platforms and genres meant handling raw, "dirty" data anomalies.
 - Aggregating high-volume unit sales data spanning millions of copies into clear, distinct subsegments without losing track of nuanced regional shifts.
   
-![picture name](images/Gameco_picture_3.png)
+<div align="center">
+  <img src="images/Gameco_picture_3.png" alt="Global Gaming">
+</div>
+
 
 ## Solutions:
 
