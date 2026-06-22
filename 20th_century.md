@@ -104,4 +104,4 @@ It will be interesting to expand to the 21st Century - scale the web-scraping pi
 
 ## Project Files
 
-For more details, see the [20-th century](https://github.com/Daria-Navrotska/20th-century) Project on GitHub.
+For more details, see the [20th-century](https://github.com/Daria-Navrotska/20th-century) Project on GitHub.
