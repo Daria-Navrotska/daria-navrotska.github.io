@@ -13,7 +13,7 @@ A publicly available dataset scraped from the [Key events of 20th century](https
 
 ## Scope
 - Analyze unstructured textual data scraped from the public Wikipedia page for the 20th century to extract historical milestones, country interactions, and international relationships.
-- Identify and document the explicit connections and alliances between global powers by executing text mining and a natural language processing (NLP) algorithm on the collected text.
+- Identify and document the explicit connections and alliances between global powers by executing text mining and a NLP algorithm on the collected text.
 - Determine the exact mathematical influence of each nation within the historical network by calculating their degree, closeness, and betweenness centrality metrics.
 - Develop a dynamic, interactive network visualization chart that clearly distinguishes distinct geopolitical communities, relationships, and country clusters.
 - Provide a polished, public-facing analytical overview that delivers a clear narrative of 20th-century geopolitical ties to inform the research of the Institute for Public Policy.  
