@@ -81,7 +81,6 @@ The visualization reveals a notable shift in regional dominance: while GameCo as
 ## Key Findings:
 
 - Regional Dominance Has Shifted Over Time: Europe has become the top-performing market for video game sales since 2016, overtaking North America and Japan. This challenges GameCo's prior assumption of consistent regional leadership and underscores the need to monitor evolving market dynamics more closely. 
-
 <div align="center">
   <img src="images/Gameco_picture_7.png" alt="top-performing market" width="300">
 </div>
@@ -106,7 +105,6 @@ The visualization reveals a notable shift in regional dominance: while GameCo as
 
 - Analyzing historical data tracking over three decades of sales across varying platforms and genres meant handling raw, "dirty" data anomalies.
 - Aggregating high-volume unit sales data spanning millions of copies into clear, distinct subsegments without losing track of nuanced regional shifts.
-  
 <div align="center">
   <img src="images/Gameco_picture_3.png" alt="Global Gaming">
 </div>
