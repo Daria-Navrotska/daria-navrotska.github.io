@@ -3,7 +3,9 @@
 ## Project Goal
 To perform a comprehensive descriptive analysis of historical video game sales data to help a new gaming studio, GameCo, understand market trends, evaluate competitor performance, and make data-driven decisions for new game development and budget allocation.
 
-![GameCo](images/Gameco_picture_1.png)
+<div align="center">
+  <img src="images/Gameco_picture_1.png" alt="GameCo" width="300">
+</div>
 
 ## Objectives
 - Identify popular game genres and platforms. 
@@ -33,7 +35,9 @@ Video Game Popularity Data [VGChartz] (https://www.vgchartz.com/): historical da
 - Advanced data visualization (bar/column charts, scatter plots, and box-and-whisker plots).
 - Analytical storytelling and delivering executive insights to business stakeholders.
 
-![Global Video Games](images/Gameco_picture_2.png)
+<div align="center">
+  <img src="images/Gameco_picture_2.png" alt="Global Video Games">
+</div>
 
 # Methodological Approach
 ## Data Preparation
@@ -60,10 +64,9 @@ The data from 2016 demonstrates that the best video game sales are happening in 
 
 ## Proportions of sales for the last five years
 
-- Europe became the top video game market after 2016.
-- This challenges GameCo’s assumption of stable regional trends.
-
 ![Proportions of sales for the last five years](images/Gameco_picture_5.png)
+
+The visualization reveals a notable shift in regional dominance: while GameCo assumed consistency over time, the data shows Europe has emerged as the leading video game market since 2016, overtaking both North America and Japan. This insight challenges GameCo’s earlier understanding and calls for deeper analysis of genre preferences, regional dynamics, and sales strategies to uncover what’s driving European growth and how to revitalize performance elsewhere.
 
 ## Genre breakdown of top-selling video games around the world – who plays what?
 
@@ -79,11 +82,15 @@ The data from 2016 demonstrates that the best video game sales are happening in 
 
 - Regional Dominance Has Shifted Over Time: Europe has become the top-performing market for video game sales since 2016, overtaking North America and Japan. This challenges GameCo's prior assumption of consistent regional leadership and underscores the need to monitor evolving market dynamics more closely. 
 
-![picture name](images/Gameco_picture_7.png)
+<div align="center">
+  <img src="images/Gameco_picture_7.png" alt="top-performing market" width="300">
+</div>
 
 - Genre Preferences Vary Significantly by Region: While North America and Europe share strong performance in Action, Sport, and Shooter genres, Japan remains uniquely aligned with Role-Playing titles. This confirms the influence of regional cultural trends and emphasizes the importance of tailoring genre strategies per market. 
 
-![picture name](images/Gameco_picture_8.png)
+<div align="center">
+  <img src="images/Gameco_picture_8.png" alt="Genre Preferences">
+</div>
 
 ## Recommendations:
 
@@ -98,6 +105,8 @@ The data from 2016 demonstrates that the best video game sales are happening in 
 
 - Analyzing historical data tracking over three decades of sales across varying platforms and genres meant handling raw, "dirty" data anomalies.
 - Aggregating high-volume unit sales data spanning millions of copies into clear, distinct subsegments without losing track of nuanced regional shifts.
+  
+![picture name](images/Gameco_picture_3.png)
 
 ## Solutions:
 
@@ -106,16 +115,12 @@ The data from 2016 demonstrates that the best video game sales are happening in 
 - Developed Cross-Regional Genre Profiles: Aligned game development pipelines for North America and Europe to focus heavily on high-performing Action, Sports, and Shooter titles.
 - Localized Genre Strategies for Specialized Markets: Tailored market-specific content strategies, specifically isolating Japan for specialized Role-Playing Game (RPG) development to match cultural consumer preferences.
 
-![picture name](images/Gameco_picture_4.png)
-
 ---
 
 ## Future Steps:
 
 - Expand Market Longevity Models: Integrate modern digital distribution and live-service monetization data beyond physical unit sales to track current post-2016 market dynamics.
 - Predictive Performance Benchmarking: Develop predictive models using historical platform and genre trajectories to estimate the launch-week unit sales of GameCo's upcoming titles.
-
-![Picture name](images/Gameco_picture_3.png)
 
 ---
 
