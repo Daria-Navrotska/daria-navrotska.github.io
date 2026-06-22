@@ -14,7 +14,7 @@ To perform a comprehensive descriptive analysis of historical video game sales d
 - Examine regional sales trends across North America, Europe, and Japan.
 
 ## Data:
-Video Game Popularity Data [VGChartz] (https://www.vgchartz.com/): historical dataset tracking the total number of units sold (in millions) from 1980 to 2016 for global video games selling more than 10,000 copies. Features include unit sales metrics segmented across different gaming platforms, genres, geographic regions, and publishing studios, used to analyze market trends and competitor performance. 
+Video Game Popularity Data [VGChartz](https://www.vgchartz.com/): historical dataset tracking the total number of units sold (in millions) from 1980 to 2016 for global video games selling more than 10,000 copies. Features include unit sales metrics segmented across different gaming platforms, genres, geographic regions, and publishing studios, used to analyze market trends and competitor performance. 
 
 ## Scope
 - Demonstrate my ability to translate business questions into analytical workflows.
