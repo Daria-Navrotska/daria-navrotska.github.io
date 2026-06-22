@@ -87,13 +87,21 @@ a virtual environment.
 
 Sentiment analysis revealed that the text has a slightly positive, but essentially neutral tone (polarity = 0.05) and is fairly objective (subjectivity = 0.38). In other words, the writing is mostly factual with only a mild emotional coloring.
 
-![...](images/20century_picture_8.png)  (images/20century_picture_9.png)
+![...](images/20century_picture_8.png)  
+
+![...](images/20century_picture_9.png)
  
-## ...
+## Network Analysis
 
 ...
 
-![picture name](images/picture_3.png)
+![picture name](images/20century_picture_.png)
+
+## Network Visualizations
+
+...
+
+![picture name](images/20century_picture_.png)
 
 ## Key Findings:
 
