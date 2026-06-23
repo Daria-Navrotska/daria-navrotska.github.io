@@ -1,6 +1,8 @@
 # Historical Network Mapping of 20th‑Century Global Relations
 
-![20th-century timeline](images/20th_century.jpg)
+<div align="center">
+  <img src="images/20th_century.jpg" alt="20th century timeline" width="300">
+</div>
 
 ## Project Goal
 To perform network analysis by text mining, web scraping, and Natural Language Processing (NLP) on historical records to map, analyze, and visualize the complex geopolitical relationships and alliances between global powers throughout the 20th century.
