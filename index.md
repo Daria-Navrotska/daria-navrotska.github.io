@@ -22,12 +22,12 @@
 
 ### Heart Attack Risk Prediction Analysis
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <img src="images/Heart_attack.png" alt="Heart Attack Risk" style="width:180px; margin-top:5px;">
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="images/Heart_attack.png" alt="Heart Attack Risk" style="width: 180px; height: auto;">
 
   <div>
     <a href="/Heart_Attack_Risk"><strong>Uncovering Hidden Patterns in Heart Attack Risk</strong></a>
-    <p>
+    <p style="margin-bottom: 0;">
 Using a rich dataset of patient health and lifestyle attributes, this project explores the hidden drivers behind heart attack risk across diverse populations. Through systematic data cleaning, linear correlation analysis, categorical comparisons, country‑level mapping, linear regression between age and heart rate, and both 2D and 3D clustering, I uncovered the strongest predictors and surprising interactions among clinical and behavioral factors. The findings offer a compelling look at how everyday habits and physiological markers combine to influence cardiovascular vulnerability.
     </p>
   </div>
