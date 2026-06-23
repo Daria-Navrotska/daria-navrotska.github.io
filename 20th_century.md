@@ -102,7 +102,6 @@ Sentiment analysis revealed that the text has a slightly positive, but essential
 
 ![picture name](images/20century_picture_11.png)
 
-
 - Split the sentence entities and filter, remove duplicated characters, and define relationships between countries
 
 ![picture name](images/20century_picture_12.png)
@@ -110,11 +109,32 @@ Sentiment analysis revealed that the text has a slightly positive, but essential
 
 ## Network Visualizations
 
-...
+- Createв a static network graph using only NetworkX
 
-![picture name](images/20century_picture_.png)
+![picture name](images/20century_picture_13.png)
 
 
+- Interactive network graph visualisation with Pyvis
+
+![picture name](images/20century_picture_14.png)
+
+- Detecting communities within the countries (applying Leiden algorithm)
+
+ ![picture name](images/20century_picture_15.png) 
+
+- Calculate and visualize the degree, closeness, and betweenness centrality measures 
+
+![picture name](images/20century_picture_16.png) 
+
+The **degree centrality** chart highlights **Germany, Japan, and France** as the most interconnected countries, reflecting their pivotal roles in 20th-century global events. This suggests they were consistently involved in key diplomatic, military, or economic interactions across multiple regions.
+
+![picture name](images/20century_picture_17.png) 
+
+The **closeness centrality** chart shows **Germany, Russia, and the UK** as highly central, indicating their strategic proximity to other countries in the network and their frequent involvement in global events. This suggests they played bridging roles across regions, facilitating influence and interaction throughout the century.
+
+![picture name](images/20century_picture_18.png) 
+
+**Germany** stands out with the highest **betweenness centrality**, underscoring its pivotal role in 20th-century global events. **Japan, Russia, and India** also rank prominently, reflecting their influence across multiple historical intersections, while countries like Lebanon show minimal bridging roles.
 
 ## Key Findings:
 
