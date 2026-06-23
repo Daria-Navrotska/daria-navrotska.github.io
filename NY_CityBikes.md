@@ -166,10 +166,12 @@ The analysis indicates that Citi Bike should prioritize the following strategic 
 
 Integrating real-time inventory tracking and expanding the dataset across consecutive years to form predictive machine learning models for live fleet rebalancing.
 
-![Picture name](images/citibike_picture_4.jpg)
+<div align="center">
+  <img src="images/citibike_picture_4.jpg" alt="Citi Bike" width="50%">
+</div>
 
 ---
 
 ## Project Files
 
-For more details, see the [new-york-citi-bike-2022](https://github.com/Daria-Navrotska/new-york-citi-bike-2022) project on GitHub, [New York CitiBike 2022](https://new-york-citi-bike-2022-dashboard.streamlit.app/) dashboard on Streamlit, and video presentation ["Exploring New York Citi Bike Strategy Dashboard](https://share.vidyard.com/watch/1e3J4ggaPqn8eUq59r6PGE).
+For more details, see the [new-york-citi-bike-2022](https://github.com/Daria-Navrotska/new-york-citi-bike-2022) project on GitHub, [New York CitiBike 2022](https://new-york-citi-bike-2022-dashboard.streamlit.app/) dashboard on Streamlit, and video presentation ["Exploring New York Citi Bike Strategy Dashboard"](https://share.vidyard.com/watch/1e3J4ggaPqn8eUq59r6PGE).
