@@ -124,8 +124,6 @@ The timing of flu in the USA is very important as it has a definite seasonal cha
   <img src="images/Influenza_picture_5.png" alt="Together we can beat the Flu" width="300">
 </div>
 
-![Together we can beat the Flu](images/Influenza_picture_5.png)
-
 ---
 
 ## Project Files
