@@ -98,15 +98,23 @@ Sentiment analysis revealed that the text has a slightly positive, but essential
 
 ## Network Analysis
 
-...
+- Visualize identified entities
 
-![picture name](images/20century_picture_.png)
+![picture name](images/20century_picture_11.png)
+
+
+- Split the sentence entities and filter, remove duplicated characters, and define relationships between countries
+
+![picture name](images/20century_picture_12.png)
+
 
 ## Network Visualizations
 
 ...
 
 ![picture name](images/20century_picture_.png)
+
+
 
 ## Key Findings:
 
