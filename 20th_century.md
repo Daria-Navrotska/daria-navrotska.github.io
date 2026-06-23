@@ -164,7 +164,9 @@ The **closeness centrality** chart shows **Germany, Russia, and the UK** as high
 
 It will be interesting to expand to the 21st Century - scale the web-scraping pipeline to track post-2000 digital diplomatic archives, mapping how modern conflicts and trading blocs have reshaped the historical 20th-century baseline.
 
-![picture name](images/20century_picture_4.jpg) 
+<div style="text-align: center; margin: 20px auto;">
+  <img src="images/20century_picture_4.jpg" alt="picture name" style="max-width: 100%; height: auto;">
+</div>
 
 ---
 
