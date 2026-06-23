@@ -7,13 +7,13 @@
 
 ### Preparing for influenza season in the USA
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <img src="images/Influenza.png" alt="Influenza Planning" style="width:180px; margin-top:5px;">
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="images/Influenza.png" alt="Influenza Planning" style="width: 180px; height: auto;">
 
   <div>
     <a href="/influenza"><strong>Planning for Influenza Season in the U.S.A.</strong></a>
-    <p>
-Based on data from 2009 to 2017, an average of 46158 people died from influenza each year. The project analyzes US CDC (Centers for Disease Control and Prevention) and Census Bureau data from 2009–2017 to identify flu trends and highlighting states with large vulnerable populations to ensure timely support for those at highest risk. The findings were visualized in a Tableau storyboard. 
+    <p style="margin-bottom: 0;">
+      Based on data from 2009 to 2017, an average of 46158 people died from influenza each year. The project analyzes US CDC (Centers for Disease Control and Prevention) and Census Bureau data from 2009–2017 to identify flu trends and highlighting states with large vulnerable populations to ensure timely support for those at highest risk. The findings were visualized in a Tableau storyboard. 
     </p>
   </div>
 </div>
