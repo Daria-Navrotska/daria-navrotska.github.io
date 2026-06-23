@@ -92,7 +92,7 @@ Dashboard consist next sections:
 
 ![...](images/citibike_picture_2.jpg)
 
-## Most popular Citi Bike start stations in 2022
+**Most popular Citi Bike start stations in 2022**
 
 ![picture name](images/citibike_dashboard_1.png)
 
@@ -101,25 +101,28 @@ Most popular starting points in NY in 2022 — W 21 St & 6 Ave, 1 Ave & E 68 St,
 This contrast underscores how heavily riders rely on a few key departure stations, particularly in central Manhattan, where these stations consistently generate the highest volumes of Citi Bike trips.
 To further explore these patterns, please use the interactive map available through the sidebar selection box.
 
-## Weather component and bike usage
+**Weather component and bike usage**
 
 ![picture name](images/citibike_dashboard_2.png)
 
-This dual-axis line chart demonstrates a strong, temperature‑driven pattern in bike usage: as temperatures rise, daily ridership increases, and as temperatures fall, usage drops sharply.
-This indicates that Citi Bike shortages are primarily a warm‑season issue, concentrated between May and October.
-Across many cities — and reflected in this dataset — summer ridership reaches peak levels (around 100%), while winter usage typically falls to 30–50% of that peak, depending on weather conditions and holiday periods.
+This dual-axis line chart demonstrates a strong, temperature‑driven pattern in bike usage: **as temperatures rise, daily ridership increases**, and **as temperatures fall, usage drops sharply**.
+This indicates that **Citi Bike shortages are primarily a warm‑season issue**, concentrated between **May and October**.
+Across many cities — and reflected in this dataset — summer ridership reaches peak levels (around 100%), while winter usage typically falls to **30–50%** of that peak, depending on weather conditions and holiday periods.
 
-## ...
+**Interactive map with aggregated bike trips**
 
-...
+![picture name](images/citibike_dashboard_3.png)
 
-![picture name](images/picture_3.png)
+The Kepler map visualizes Citi Bike start stations (depickted as green dots), and end stations (blue dots). Connection color intensity reflects route popularity: brighter (yellow) indicate more trips, while darker (violet) represents fewer trips.
 
-## ...
-
-...
-
-![picture name](images/picture_3.png)
+Map demonstrate that:
+- The densest clusters appear in Midtown and Lower Manhattan, driven by commuter flows and tourism.
+- Strong recreational patterns are visible around Central Park and the Hudson River Greenway.
+- Route density drops sharply outside Manhattan due to lower station density and less bike infrastructure.
+- Outer boroughs (Queens, Bronx, deeper Brooklyn) show far fewer connections.
+- Jersey City and Roosevelt Island appear as small, isolated pockets of activity.
+- Overall, the map shows that Citi Bike demand is highly concentrated in Manhattan’s core, with short, repetitive, high‑volume trips
+- These patterns suggest that Citi Bike rebalancing and fleet distribution should prioritize central Manhattan and the highlighted corridors.
 
 ## Key Findings:
 
@@ -129,9 +132,13 @@ Across many cities — and reflected in this dataset — summer ridership reache
 
 ## Recommendations:
 
-- Implement a dynamic, predictive bike rebalancing schedule that proactively moves assets ahead of high-traffic hours.
-- Align station maintenance and fleet scaling plans closely with seasonal demand models to avoid under-utilization in off-peak periods.
-- Optimize business development and marketing targets toward expanding station capacities at identified bottleneck hubs. 
+The analysis indicates that Citi Bike should prioritize the following strategic objectives moving forward:
+🚲 Increase docking capacity at top stations to reduce congestion and ensure bikes are consistently available.
+🔄 Implement dynamic bike rebalancing, especially during morning and evening peak hours when demand shifts rapidly.
+❄️ Adjust docking stations space seasonally — stations don’t need to be fully stocked during winter months.
+🌞 Plan for seasonal surges: waterfront and leisure‑area demand spikes in warm months, so use modular stations that can scale up for summer.
+📈 Stock bikes more heavily in warmer months to meet higher demand, and reduce supply in winter and late autumn to lower logistics costs.
+🚨 Use automated alerts to dispatch rebalancing crews when station levels cross critical thresholds.
   
 ---
 
@@ -145,15 +152,13 @@ Across many cities — and reflected in this dataset — summer ridership reache
 - Leveraged optimized Pandas aggregations and programmatic sorting to merge weather profiles with trip metrics cleanly.
 - Utilized Streamlit's multi-page design principles to separate different variables across individual tabs, creating a scannable narrative.  
 
-![picture name](images/picture_4.png)
-
 ---
 
 ## Future Steps:
 
 Integrating real-time inventory tracking and expanding the dataset across consecutive years to form predictive machine learning models for live fleet rebalancing.
 
-![Picture name](images/picture_5.png)
+![Picture name](images/picture_4.png)
 
 ---
 
