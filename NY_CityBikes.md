@@ -81,7 +81,9 @@ Who is Citi Bike?
 
 Citi Bike is New York City’s flagship bike‑sharing program, offering residents and visitors a fast, sustainable alternative to traditional transportation. **Since its launch in 2013**, the system has expanded into one of the largest in the world, serving Manhattan, Brooklyn, Queens, and parts of the Bronx with thousands of bikes and docking stations. **As ridership continues to grow, so do the operational challenges—stations frequently run empty in high‑demand areas while others remain full, limiting users’ ability to pick up or return bikes**. 
 
-![Citi Bike](images/citibike_picture_1.jpg)
+<div align="center">
+  <img src="images/citibike_picture_1.jpg" alt="Citi Bike" width="50%">
+</div>
 
 This dashboard explores CitiBike’s 2022 usage patterns to reveal when and where these imbalances occur, helping identify opportunities to improve distribution efficiency and enhance the overall rider experience.
 Dashboard consist next sections:
@@ -90,7 +92,9 @@ Dashboard consist next sections:
 - Interactive map with aggregated bike trips
 - Recommendations
 
-![...](images/citibike_picture_2.jpg)
+<div align="center">
+  <img src="images/citibike_picture_2.jpg" alt="Citi Bike people" width="50%">
+</div>
 
 **Most popular Citi Bike start stations in 2022**
 
@@ -133,13 +137,15 @@ Map demonstrate that:
 ## Recommendations:
 
 The analysis indicates that Citi Bike should prioritize the following strategic objectives moving forward:
-🚲 Increase docking capacity at top stations to reduce congestion and ensure bikes are consistently available.
-🔄 Implement dynamic bike rebalancing, especially during morning and evening peak hours when demand shifts rapidly.
-❄️ Adjust docking stations space seasonally — stations don’t need to be fully stocked during winter months.
-🌞 Plan for seasonal surges: waterfront and leisure‑area demand spikes in warm months, so use modular stations that can scale up for summer.
-📈 Stock bikes more heavily in warmer months to meet higher demand, and reduce supply in winter and late autumn to lower logistics costs.
-🚨 Use automated alerts to dispatch rebalancing crews when station levels cross critical thresholds.
-  
+- 🚲 Increase docking capacity at top stations to reduce congestion and ensure bikes are consistently available.
+- 🔄 Implement dynamic bike rebalancing, especially during morning and evening peak hours when demand shifts rapidly.
+- ❄️ Adjust docking stations space seasonally — stations don’t need to be fully stocked during winter months.
+- 🌞 Plan for seasonal surges: waterfront and leisure‑area demand spikes in warm months, so use modular stations that can scale up for summer.
+- 📈 Stock bikes more heavily in warmer months to meet higher demand, and reduce supply in winter and late autumn to lower logistics costs.
+- 🚨 Use automated alerts to dispatch rebalancing crews when station levels cross critical thresholds.
+
+![Picture name](images/citibike_picture_5.png)
+ 
 ---
 
 ## Project Challenges 
@@ -158,7 +164,7 @@ The analysis indicates that Citi Bike should prioritize the following strategic 
 
 Integrating real-time inventory tracking and expanding the dataset across consecutive years to form predictive machine learning models for live fleet rebalancing.
 
-![Picture name](images/picture_4.png)
+![Picture name](images/citibike_picture_4.jpg)
 
 ---
 
