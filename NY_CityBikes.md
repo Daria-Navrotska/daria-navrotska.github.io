@@ -101,11 +101,13 @@ Most popular starting points in NY in 2022 — W 21 St & 6 Ave, 1 Ave & E 68 St,
 This contrast underscores how heavily riders rely on a few key departure stations, particularly in central Manhattan, where these stations consistently generate the highest volumes of Citi Bike trips.
 To further explore these patterns, please use the interactive map available through the sidebar selection box.
 
-## ...
+## Weather component and bike usage
 
-...
+![picture name](images/citibike_dashboard_2.png)
 
-![picture name](images/picture_3.png)
+This dual-axis line chart demonstrates a strong, temperature‑driven pattern in bike usage: as temperatures rise, daily ridership increases, and as temperatures fall, usage drops sharply.
+This indicates that Citi Bike shortages are primarily a warm‑season issue, concentrated between May and October.
+Across many cities — and reflected in this dataset — summer ridership reaches peak levels (around 100%), while winter usage typically falls to 30–50% of that peak, depending on weather conditions and holiday periods.
 
 ## ...
 
