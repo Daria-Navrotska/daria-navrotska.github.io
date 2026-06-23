@@ -170,4 +170,4 @@ Integrating real-time inventory tracking and expanding the dataset across consec
 
 ## Project Files
 
-For more details, see the [new-york-citi-bike-2022](https://github.com/Daria-Navrotska/new-york-citi-bike-2022) project on GitHub, [New York CitiBike 2022](https://new-york-citi-bike-2022-dashboard.streamlit.app/) dashboard on Streamlit, and video presentation ["Exploring New York Citi Bike Strategy Dashboard"](https://share.vidyard.com/watch/1e3J4ggaPqn8eUq59r6PGE).
+For more details, see the [new-york-citi-bike-2022](https://github.com/Daria-Navrotska/new-york-citi-bike-2022) project on GitHub, [New York CitiBike 2022](https://new-york-citi-bike-2022-dashboard.streamlit.app/) interactive dashboard on Streamlit, and video presentation ["Exploring New York Citi Bike Strategy Dashboard"](https://share.vidyard.com/watch/1e3J4ggaPqn8eUq59r6PGE).
