@@ -2,6 +2,8 @@
 
 Since its launch in 2013, Citi Bike has grown into New York City’s largest bike-sharing program and one of the biggest worldwide. Rising demand - especially since the COVID-19 pandemic - has exposed weaknesses in station capacity and bike distribution. Stations in busy commuter areas often run out of bikes, while others remain full, preventing returns. This project investigates the causes of such imbalances and provides data-backed recommendations to improve operational efficiency and customer satisfaction.
 
+![Citi Bike](images/citibike_picture_6.png)
+
 ## Project Goal
 Analyze user behavior of a bike-sharing service based in New York City (USA) to help the business strategy department
 assess the current logistics model of bike distribution across the city and identify expansion opportunities.
@@ -62,19 +64,54 @@ Formulated analytical questions to guide dashboard development:
 - Designed interactive geospatial maps in Kepler.gl.
 - Built a prototype dashboard in Streamlit, organizing visual outputs into clear sections: Popular Stations, Seasonal Patterns, Weather Impact, Station Distribution.
 
+## Results
+- Clear identification of high-demand stations and routes.
+- Evidence of seasonal and weather-driven variations in trip volume.
+- A visual representation of station density and gaps across New York City.
+- Actionable recommendations to support management’s strategic decisions.
+
 ---
 
-## ...?
+## New York Citi Bike Strategy Dashboard
 
-...
+Dashboard explores CitiBike’s company usage patterns in 2022 to reveal when and where imbalances occur, helping identify opportunities to improve distribution efficiency andenhance the overall rider experience.
+Who is Citi Bike?
 
-![...](images/picture_1.png)
+**Who is Citi Bike?**
+
+Citi Bike is New York City’s flagship bike‑sharing program, offering residents and visitors a fast, sustainable alternative to traditional transportation. **Since its launch in 2013**, the system has expanded into one of the largest in the world, serving Manhattan, Brooklyn, Queens, and parts of the Bronx with thousands of bikes and docking stations. **As ridership continues to grow, so do the operational challenges—stations frequently run empty in high‑demand areas while others remain full, limiting users’ ability to pick up or return bikes**. 
+
+![Citi Bike](images/citibike_picture_1.jpg)
+
+This dashboard explores CitiBike’s 2022 usage patterns to reveal when and where these imbalances occur, helping identify opportunities to improve distribution efficiency and enhance the overall rider experience.
+Dashboard consist next sections:
+- Most popular stations
+- Weather component and bike usage
+- Interactive map with aggregated bike trips
+- Recommendations
+
+![...](images/citibike_picture_2.jpg)
+
+## Most popular Citi Bike start stations in 2022
+
+![picture name](images/citibike_dashboard_1.png)
+
+The bar chart highlights the start stations with the highest bike‑trip volumes, showing a strong concentration of activity at a small number of central locations.
+Most popular starting points in NY in 2022 — W 21 St & 6 Ave, 1 Ave & E 68 St,Broadway & W 58 St, and West St & Chambers St — stand out clearly (marked by blue color), with significantly taller bars than the rest.
+This contrast underscores how heavily riders rely on a few key departure stations, particularly in central Manhattan, where these stations consistently generate the highest volumes of Citi Bike trips.
+To further explore these patterns, please use the interactive map available through the sidebar selection box.
 
 ## ...
 
 ...
 
-![picture name](images/picture_2.png)
+![picture name](images/picture_3.png)
+
+## ...
+
+...
+
+![picture name](images/picture_3.png)
 
 ## ...
 
