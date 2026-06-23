@@ -1,6 +1,8 @@
 # Uncovering Hidden Patterns in Heart Attack Risk
 
-![Heart Investigation](images/Heart_attack_1.png)
+<div align="center">
+  <img src="images/Heart_attack_1.png" alt="Heart Investigation" width="300">
+</div>
 
 ## Project Goal
 To develop a predictive analytics workflow that identifies key factors influencing heart attack risk using machine learning techniques applied to synthetic medical and global health data.
@@ -130,7 +132,7 @@ Performed **clustering analysis doesn’t reflect a strong or clean separation**
 - Use the model outputs as an educational tool to raise awareness of cardiovascular risk patterns. 
   
 <div style="text-align: center;">
-    <img src="images/Heart_attack.png" alt="Heart_attack_picture">
+    <img src="images/Heart_attack.png" alt="Heart_attack_picture" width="300">
 </div>
 
 ---
