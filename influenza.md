@@ -3,7 +3,10 @@
 ## Project Goal
 Enable a U.S.A. medical staffing agency to anticipate influenza‑related surges and allocate temporary healthcare workers across all country. The analysis focuses on identifying flu trends and highlighting states with large vulnerable populations to ensure timely support for those at highest risk.
 
-![Flu Season](images/Influenza_picture_4.png)
+<div align="center">
+  <img src="images/Influenza_picture_4.png" alt="Flu Season" width="300">
+</div>
+
 
 ## Objectives
 - Identify vulnerable population groups and high‑risk states.
@@ -116,6 +119,10 @@ The timing of flu in the USA is very important as it has a definite seasonal cha
 - Expand the analysis using the most recent data available.
 - Combine clinical and demographic sources for the epidemiological survey to gather data on symptoms, vaccination status and patient access to healthcare.
 - Use predictive models to forecast future medical personnel needs.
+
+<div align="center">
+  <img src="images/Influenza_picture_5.png" alt="Together we can beat the Flu" width="300">
+</div>
 
 ![Together we can beat the Flu](images/Influenza_picture_5.png)
 
