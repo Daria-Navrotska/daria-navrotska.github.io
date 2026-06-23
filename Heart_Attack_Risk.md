@@ -161,7 +161,9 @@ Performed **clustering analysis doesn’t reflect a strong or clean separation**
 - Develop a dashboard or decision‑support tool for clinicians and public health teams.
 - Use the project as a foundation for deeper research into cardiovascular prevention strategies.
 
-![Heart_attack_life_simple_rules](images/Heart_attack_Life_simple_7.png)
+<div align="center">
+  <img src="images/Heart_attack_Life_simple_7.png" alt="Heart_attack_life_simple_rules" width="300">
+</div>
 
 ---
 
