@@ -109,7 +109,7 @@ Sentiment analysis revealed that the text has a slightly positive, but essential
 
 ## Network Visualizations
 
-- Createв a static network graph using only NetworkX
+- Created a static network graph using only NetworkX
 
 ![picture name](images/20century_picture_13.png)
 
@@ -158,7 +158,7 @@ The **closeness centrality** chart shows **Germany, Russia, and the UK** as high
 - Optimized the NLP pipeline with stricter co-occurrence windows, ensuring country connections were only logged if they appeared within a shared, contextually relevant sentence block.
 - Applied iterative styling adjustments to the graph, using modular layout algorithms to repel text labels and sizing nodes dynamically relative to their centrality scores.
 
-![picture name](images/picture_4.png)
+![picture name](images/picture_4.jpg)
 
 ---
 
