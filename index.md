@@ -95,13 +95,13 @@ This project uses web‑scraped text from the Wikipedia page “Key events of th
 
 ---
 
-### New York CityBike Trips Analysis 
+### New York CitiBike Trips Analysis 
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="images/NY_CityBike.jpg" alt="New York CityBike Demand" style="width: 180px; height: auto;">
 
   <div>
-    <a href="/NY_CityBikes"><strong>Mapping the Pulse of NYC: A 2022 CityBike Demand</strong></a>
+    <a href="/NY_CityBikes"><strong>Mapping the Pulse of NYC: A 2022 CitiBike Demand</strong></a>
     <p style="margin-bottom: 0;">
 Using Citi Bike’s 2022 trip data enriched with NOAA weather records, this project analyzes rider behavior to diagnose distribution bottlenecks across New York City. Through descriptive statistics, route aggregation, seasonal trend analysis, and geospatial mapping with Kepler.gl, I identified the stations and time periods driving the highest imbalance. The insights were consolidated into an interactive Streamlit dashboard designed to guide business strategy teams in optimizing bike availability and planning future expansion.
     </p>
