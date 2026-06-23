@@ -98,7 +98,7 @@ This project uses web‑scraped text from the Wikipedia page “Key events of th
 ### New York Citi Bike Trips Analysis 
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="images/citibike_picture_1.jpg" alt="New York Citi Bike Demand" style="width: 180px; height: auto;">
+  <img src="images/citibike_picture_1.jpg" alt="New York Citi Bike Demand" style="width: 200px; height: auto;">
 
   <div>
     <a href="/NY_CityBikes"><strong>Mapping the Pulse of NYC: A 2022 Citi Bike Demand</strong></a>
