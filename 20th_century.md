@@ -91,7 +91,9 @@ Sentiment analysis revealed that the text has a slightly positive, but essential
 
 ![...](images/20century_picture_8.png)  
 
-![...](images/20century_picture_9.png)
+<div style="text-align: center; margin: 20px auto;">
+  <img src="images/20century_picture_9.png" alt="20th Century Network Graph" style="max-width: 100%; height: auto;">
+</div>
  
 ## Network Analysis
 
