@@ -1,6 +1,6 @@
 # Historical Network Mapping of 20th‑Century Global Relations
 
-![Key events of 20-th century](images/20century_picture_10.png)
+![Key events of the 20-th century](images/20century_picture_10.png)
 
 ## Project Goal
 To perform network analysis by text mining, web scraping, and Natural Language Processing (NLP) on historical records to map, analyze, and visualize the complex geopolitical relationships and alliances between global powers throughout the 20th century.
@@ -11,7 +11,7 @@ To perform network analysis by text mining, web scraping, and Natural Language P
 - Build a dynamic, interactive network visualization that clearly distinguishes distinct geopolitical communities and country alliances.
 
 ## Data:
-A publicly available dataset scraped from the [Key events of 20th century](https://en.wikipedia.org/wiki/Key_events_of_the_20th_century) Wikipedia page, containing unstructured historical records of global political events, milestones, and international relations used for text mining and network mapping. 
+A publicly available dataset scraped from the [Key events of the 20th century](https://en.wikipedia.org/wiki/Key_events_of_the_20th_century) Wikipedia page, containing unstructured historical records of global political events, milestones, and international relations used for text mining and network mapping. 
 
 ## Scope
 - Analyze unstructured textual data scraped from the public Wikipedia page for the 20th century to extract historical milestones, country interactions, and international relationships.
