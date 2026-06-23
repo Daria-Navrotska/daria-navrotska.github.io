@@ -2,7 +2,9 @@
 
 Since its launch in 2013, Citi Bike has grown into New York City’s largest bike-sharing program and one of the biggest worldwide. Rising demand - especially since the COVID-19 pandemic - has exposed weaknesses in station capacity and bike distribution. Stations in busy commuter areas often run out of bikes, while others remain full, preventing returns. This project investigates the causes of such imbalances and provides data-backed recommendations to improve operational efficiency and customer satisfaction.
 
-![Citi Bike](images/citibike_picture_6.png)
+<div align="center">
+  <img src="images/citibike_picture_6.png" alt="Citi Bike" width="50%">
+</div>
 
 ## Project Goal
 Analyze user behavior of a bike-sharing service based in New York City (USA) to help the business strategy department
