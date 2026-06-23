@@ -89,12 +89,11 @@ a virtual environment.
 
 Sentiment analysis revealed that the text has a slightly positive, but essentially neutral tone (polarity = 0.05) and is fairly objective (subjectivity = 0.38). In other words, the writing is mostly factual with only a mild emotional coloring.
 
-![...](images/20century_picture_8.png)  
-
-<div style="text-align: center; margin: 20px auto;">
-  <img src="images/20century_picture_9.png" alt="20th Century Network Graph" style="max-width: 100%; height: auto;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin: 20px auto; flex-wrap: wrap;">
+  <img src="images/20century_picture_8.png" alt="20th Century Data Analysis" style="max-width: 48%; height: auto;">
+  <img src="images/20century_picture_9.png" alt="20th Century Network Graph" style="max-width: 48%; height: auto;">
 </div>
- 
+
 ## Network Analysis
 
 ...
